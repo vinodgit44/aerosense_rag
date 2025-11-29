@@ -1,23 +1,4 @@
-Here is a **well-drafted, recruiter-friendly, Google-grade README** for your UAV Troubleshooting RAG System.
-It includes:
 
-* project overview
-* architecture
-* features
-* tech stack
-* folder structure
-* installation
-* indexing
-* UI usage
-* evaluation
-* sample queries
-* screenshots placeholders
-* badges
-* next steps
-
-This is ready to paste into your GitHub repo.
-
----
 
 # 📄 **AeroSense RAG — UAV Troubleshooting Assistant (Manuals + Telemetry + Local LLM)**
 
@@ -303,14 +284,5 @@ Reports:
 
 MIT License – free for personal & commercial use.
 
----
 
-If you'd like, I can now:
 
-✅ Add an ASCII architecture diagram
-✅ Generate a README banner image
-✅ Build a “Features Summary Table”
-✅ Add example telemetry snippets
-✅ Generate a *Project Highlights* section for LinkedIn
-
-Just tell me.
