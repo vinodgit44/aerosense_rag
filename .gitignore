@@ -1,0 +1,85 @@
+# ----------------------------
+# Python / Environment
+# ----------------------------
+venv/
+.env
+*.pyc
+__pycache__/
+*.pyo
+*.pyd
+*.pdb
+*.egg-info/
+*.egg
+.DS_Store
+
+# ----------------------------
+# Vector DB (Chroma)
+# ----------------------------
+chroma_db/
+chroma_db/*
+
+# ----------------------------
+# Data folders (skip manuals, logs, GT)
+# ----------------------------
+data/
+data/manuals/
+data/logs/
+data/ground_truth/
+data/*
+
+# allow a placeholder file if needed
+!data/.keep
+
+# ----------------------------
+# Build artifacts
+# ----------------------------
+dist/
+build/
+reports/
+*.log
+*.tmp
+
+# ----------------------------
+# Streamlit
+# ----------------------------
+.streamlit/
+.streamlit/*
+
+# ----------------------------
+# Ollama models / cache
+# ----------------------------
+~/.ollama/
+ollama_cache/
+ollama_models/
+
+# ----------------------------
+# VSCode / Editor configs
+# ----------------------------
+.vscode/
+.idea/
+*.swp
+
+# ----------------------------
+# OS-generated files
+# ----------------------------
+Thumbs.db
+ehthumbs.db
+desktop.ini
+
+# ----------------------------
+# Notebooks
+# ----------------------------
+.ipynb_checkpoints/
+
+# ----------------------------
+# Logs
+# ----------------------------
+logs/
+*.log
+
+# ----------------------------
+# Project-specific
+# ----------------------------
+scripts/__pycache__/
+rag_pipeline/__pycache__/
+app/__pycache__/
