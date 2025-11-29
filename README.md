@@ -177,8 +177,8 @@ Place engineering manuals (PDF/TXT):
 
 ```
 data/manuals/
-    ├── asd.txt
-    └── mannual.txt
+    ├── mannual_2.txt
+    └── mannual_1.txt
 ```
 
 Place telemetry logs (CSV):
@@ -259,12 +259,12 @@ Reports:
 
 ---
 
-# 📸 **Screenshots (Add Later)**
+# 📸 **Screenshots **
 
 ```
-/images/ui_dashboard.png
-/images/retrieval_example.png
-/images/vector_db.png
+/images/1.png
+/images/2.png
+
 ```
 
 ---
@@ -283,6 +283,7 @@ Reports:
 # 📜 **License**
 
 MIT License – free for personal & commercial use.
+
 
 
 
