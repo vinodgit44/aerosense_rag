@@ -262,7 +262,7 @@ Reports:
 # 📸UI_Screenshots 
 
 ![UI](/images/1.png)
-![UI_Retr](/images/2.pngL)
+![UI_Retr](/images/2.png)
 
 
 
@@ -285,6 +285,7 @@ Reports:
 # 📜 **License**
 
 MIT License – free for personal & commercial use.
+
 
 
 
