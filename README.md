@@ -284,7 +284,8 @@ Reports:
 
 # 📜 **License**
 
-MIT License – free for personal & commercial use.
+MIT License 
+
 
 
 
